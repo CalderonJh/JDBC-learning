@@ -3,7 +3,8 @@
 Curso de JPA de Oracle Next Education ONE + Alura Latam
 proyecto: <h2>hibernate y jpa</h2>
 
-En este curso online de JPA tendremos una serie de lecciones en vídeo sobre Java Persistence API 1.0, especificación que es el resultado de años de trabajo de su creador Gavin King con este curso van a conseguir dominar el framework java más utilizado en el mercado actual, Trabajar con JPA  y obtener conexiones a bases de datos y operar con entidades
+
+Trabajar con JPA  y obtener conexiones a bases de datos y operar con entidades
 
 <ol>
   <li>Comprenda los problemas de JDBC y cómo JPA llegó a resolverlos</li>
